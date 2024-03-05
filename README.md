@@ -7,8 +7,8 @@ This script is designed to remove the `node_modules` folders from multiple proje
 1. Clone this repository or download the script `clean-node-modules.js`.
 2. Navigate to the directory where the script is located.
 3. Open a terminal or command prompt.
-4. Run the script by executing the command:
-5. Follow the prompts to specify the source directory containing the projects.
+4. **Before running the script**, make sure to update the `rootDir` variable in the `clean-node-modules.js` file with the correct path to the directory containing your projects. This is important to ensure that the script targets the correct source directory.
+5. Run the script by executing the command:
 
 ## Features
 
